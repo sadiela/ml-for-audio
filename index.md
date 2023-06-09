@@ -1,5 +1,3 @@
-# Website for the Machine Learning for Audio Workshop
-
 The Machine Learning for Audio Workshop at NeurIPS 2023 will bring together audio practitioners and machine learning researchers to a venue focused on various problems in audio, including music information retrieval, acoustic event detection, computational paralinguistics, speech transcription, multimodal modeling, and generative modeling of speech and other sounds.
 
 ## Workshop Description
