@@ -10,6 +10,52 @@ We plan to solicit original workshop papers in these areas, which will be review
 ## Data Release 
 Recognizing the scarcity of free, publicly available audio data, Modulate and Hume AI will contribute several datasets in the speech domain alongside the workshop, all of large scale for their respective domains. These datasets will include acted speech (professionally acted scripts), spontaneous speech (streamer content), mimicked speech (short-form emotive recordings), and mimicked non-verbal speech. In a pseudo-competition style, each dataset will be described, and baseline results for various audio modeling tasks will be released via a white paper. Further, the white paper will also give a brief overview of other open-source audio data for researchers to explore. The organizers hope this allows researchers from smaller research groups and academia to work with and validate findings on larger, more generalizable datasets.
 
+## Call for Papers
+
+We are calling for extended abstracts up to 4 pages excluding references. Several submissions will be chosen for 15-minute contributed talks and the remaining selected submissions will participate in the poster & demo session. Please make sure submissions adhere to the NeurIPS format. Submit your work via CMT (link to be added). The review process will be double-blind so please make sure not to put any author information in your submission.
+
+Authors may also submit supplementary materials along with their papers if they wish (e.g., a preview of a potential demo). Reviewers will not be required to read/view/listen to said supplementary material. 
+
+**Timeline**
+
+* **Submission deadline (main paper & all supplementary material)**: September 29, 2023 AOE
+
+* **Accept/Reject notification date**: October 20, 2023 AOE
+
+
+## Tentative Schedule
+9:00   - **Invited Speaker Shoko Araki** 
+
+9:30   - **Invited Speaker Dimitra Emmanouilidou**
+
+10:00 - **Contributed Talk**
+
+10:20 - **Contributed Talk**
+
+10:40 - **Contributed Talk**
+
+11:00 - **Morning Break**
+
+11:30 - **Invited Speaker Ben Hayes**
+
+12:00 - **Lunch**
+
+13:30 - **Poster & Demo Session**: Poster session alongside live demos from selected submissions.
+
+15:00 - **Invited Speaker Neil Zeghidour**
+
+15:30 - **Invited Speaker Rachel Bittner**
+
+16:00 - **Afternoon Break**
+
+16:30 - **Invited Speaker Bjorn Schuller**
+
+17:00 - **Contributed Talk**
+
+17:20 - **Contributed Talk**
+
+17:40 - **Contributed Talk**
+
 ## Invited Speakers
 * **[Shoko Araki](https://scholar.google.com/citations?user=bNo2kYsAAAAJ&hl=enJ)** received her B.E. and M.E. degrees in mathematical engineering and information physics from the University of Tokyo and her PhD in information science from Hokkaido University. In 2000, she joined NTT Communication Science Laboratories, Kyoto. She is a member of the IEEE, IEICE, and the ASJ. Her research interests include array signal processing, blind source separation applied to speech signals, speech diarization, and auditory scene analysis.
 * **[Rachel Bittner](https://scholar.google.com/citations?hl=en&user=pXn1kQEAAAAJ)** is a senior research scientist at Spotify, and completed her Ph.D. at New York University in the Music and Audio Research Lab (MARL) working with Juan Bello. Previously, Rachel was a research assistant at NASA Ames Research Center working with Durand Begault in the Advanced Controls and Displays Laboratory. Rachel completed her master's in math at NYU's Courant Institute, and her bachelor's in music performance and math at UC Irvine. Her research areas of interest include automatic music transcription, source separation, musical version identification, open-source software and datasets for music research.
