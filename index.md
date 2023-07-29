@@ -7,9 +7,6 @@ Audio research has recently been enjoying a renaissance of sorts; in the field o
 
 We plan to solicit original workshop papers in these areas, which will be reviewed by the organizers and an additional set of reviewers. We also plan to run a demo session alongside the poster session, where contributors will be able to present live demos of their work where applicable. We believe this session will complement the newly announced Creative AI Track very nicely; as synthesis is a prominent subfield within audio machine learning research, we will be able to further highlight novel generative methods that do not necessarily overlap with a creative application.
 
-## Data Release 
-Recognizing the scarcity of free, publicly available audio data, Modulate and Hume AI will contribute several datasets in the speech domain alongside the workshop, all of large scale for their respective domains. These datasets will include acted speech (professionally acted scripts), spontaneous speech (streamer content), mimicked speech (short-form emotive recordings), and mimicked non-verbal speech. In a pseudo-competition style, each dataset will be described, and baseline results for various audio modeling tasks will be released via a white paper. Further, the white paper will also give a brief overview of other open-source audio data for researchers to explore. The organizers hope this allows researchers from smaller research groups and academia to work with and validate findings on larger, more generalizable datasets.
-
 ## Call for Papers
 
 We are calling for extended abstracts up to 4 pages excluding references. Several submissions will be chosen for 15-minute contributed talks and the remaining selected submissions will participate in the poster & demo session. Please make sure submissions adhere to the NeurIPS format. Submit your work via **[CMT](https://cmt3.research.microsoft.com/MLforAudioWorkshop2023)**. The review process will be double-blind so please make sure not to put any author information in your submission.
@@ -24,7 +21,7 @@ Two of the datasets can be benchmarked against previous competitions. For more d
 1. Baird, A., Tzirakis, P., Brooks, J. A., Gregory, C. B., Schuller, B., Batliner, A., ... & Cowen, A. (2022, October). "The ACII 2022 Affective Vocal Bursts Workshop & Competition." In 2022 10th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW) (pp. 1-5). IEEE.
 2. Baird, A., Tzirakis, P., Gidel, G., Jiralerspong, M., Muller, E. B., Mathewson, K., ... & Cowen, A. (2022). "The ICML 2022 Expressive Vocalizations Workshop and Competition: Recognizing, Generating, and Personalizing Vocal Bursts." arXiv preprint arXiv:2205.01780.
 
-A white paper providing more comprehensive details on the available data will be released shortly. To request access to the datasets, please reach out to [competitions@hume.ai](competitions@hume.ai).
+A white paper providing more comprehensive details on the available data will be released shortly. To request access to the datasets, please reach out to [competitions@hume.ai](mailto:competitions@hume.ai).
 
 **Timeline**
 
