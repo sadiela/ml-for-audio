@@ -16,6 +16,16 @@ We are calling for extended abstracts up to 4 pages excluding references. Severa
 
 Authors may also submit supplementary materials along with their papers if they wish (e.g., a preview of a potential demo). Reviewers will not be required to read/view/listen to said supplementary material. 
 
+### Available Data for Workshop Submissions
+
+As part of the workshop, the organizers have made several large-scale audio datasets available. These datasets allow researchers to evaluate a wide range of machine learning approaches.
+
+Two of the datasets can be benchmarked against previous competitions. For more detailed information, you can refer to the following publications:
+1. Baird, A., Tzirakis, P., Brooks, J. A., Gregory, C. B., Schuller, B., Batliner, A., ... & Cowen, A. (2022, October). "The ACII 2022 Affective Vocal Bursts Workshop & Competition." In 2022 10th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW) (pp. 1-5). IEEE.
+2. Baird, A., Tzirakis, P., Gidel, G., Jiralerspong, M., Muller, E. B., Mathewson, K., ... & Cowen, A. (2022). "The ICML 2022 Expressive Vocalizations Workshop and Competition: Recognizing, Generating, and Personalizing Vocal Bursts." arXiv preprint arXiv:2205.01780.
+
+A white paper providing more comprehensive details on the available data will be released shortly. To request access to the datasets, please reach out to [competitions@hume.ai](competitions@hume.ai).
+
 **Timeline**
 
 * **Submission deadline (main paper & all supplementary material)**: September 29, 2023 AOE
