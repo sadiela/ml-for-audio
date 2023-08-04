@@ -13,6 +13,12 @@ We are calling for extended abstracts up to 4 pages excluding references. Severa
 
 Authors may also submit supplementary materials along with their papers if they wish (e.g., a preview of a potential demo). Reviewers will not be required to read/view/listen to said supplementary material. 
 
+**Timeline**
+
+* **Submission deadline (main paper & all supplementary material)**: September 29, 2023 AOE
+
+* **Accept/Reject notification date**: October 20, 2023 AOE
+
 ### Available Data for Workshop Submissions
 
 As part of the workshop, the organizers have made several large-scale audio datasets available. These datasets allow researchers to evaluate a wide range of machine learning approaches.
@@ -23,12 +29,6 @@ Two of the datasets can be benchmarked against previous competitions. For more d
 3. Schuller, Björn W., Anton Batliner, Shahin Amiriparian, Alexander Barnhill, Maurice Gerczuk, Andreas Triantafyllopoulos, Alice Baird et al. "The ACM Multimedia 2023 Computational Paralinguistics Challenge: Emotion Share & Requests." arXiv preprint arXiv:2304.14882 (2023).
 
 A white paper providing more comprehensive details on the available data will be released shortly. To request access to the datasets, please reach out to [competitions@hume.ai](mailto:competitions@hume.ai).
-
-**Timeline**
-
-* **Submission deadline (main paper & all supplementary material)**: September 29, 2023 AOE
-
-* **Accept/Reject notification date**: October 20, 2023 AOE
 
 
 ## Tentative Schedule
