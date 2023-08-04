@@ -20,6 +20,7 @@ As part of the workshop, the organizers have made several large-scale audio data
 Two of the datasets can be benchmarked against previous competitions. For more detailed information, you can refer to the following publications:
 1. Baird, A., Tzirakis, P., Brooks, J. A., Gregory, C. B., Schuller, B., Batliner, A., ... & Cowen, A. (2022, October). "The ACII 2022 Affective Vocal Bursts Workshop & Competition." In 2022 10th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW) (pp. 1-5). IEEE.
 2. Baird, A., Tzirakis, P., Gidel, G., Jiralerspong, M., Muller, E. B., Mathewson, K., ... & Cowen, A. (2022). "The ICML 2022 Expressive Vocalizations Workshop and Competition: Recognizing, Generating, and Personalizing Vocal Bursts." arXiv preprint arXiv:2205.01780.
+3. Schuller, Björn W., Anton Batliner, Shahin Amiriparian, Alexander Barnhill, Maurice Gerczuk, Andreas Triantafyllopoulos, Alice Baird et al. "The ACM Multimedia 2023 Computational Paralinguistics Challenge: Emotion Share & Requests." arXiv preprint arXiv:2304.14882 (2023).
 
 A white paper providing more comprehensive details on the available data will be released shortly. To request access to the datasets, please reach out to [competitions@hume.ai](mailto:competitions@hume.ai).
 
