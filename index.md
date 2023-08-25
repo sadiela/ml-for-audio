@@ -30,7 +30,7 @@ Two of the datasets can be benchmarked against previous competitions. For more d
 2. Baird, A., Tzirakis, P., Gidel, G., Jiralerspong, M., Muller, E. B., Mathewson, K., ... & Cowen, A. (2022). "The ICML 2022 Expressive Vocalizations Workshop and Competition: Recognizing, Generating, and Personalizing Vocal Bursts." arXiv preprint arXiv:2205.01780.
 3. Schuller, Björn W., Anton Batliner, Shahin Amiriparian, Alexander Barnhill, Maurice Gerczuk, Andreas Triantafyllopoulos, Alice Baird et al. "The ACM Multimedia 2023 Computational Paralinguistics Challenge: Emotion Share & Requests." arXiv preprint arXiv:2304.14882 (2023).
 
-A white paper providing more comprehensive details on the available data can be found <a href="NeurIPS_2023___AudioWorkshop_DataBenchmark (2).pdf" target="_blank">here</a>. To request access to the datasets, please reach out to [competitions@hume.ai](mailto:competitions@hume.ai).
+A white paper providing more comprehensive details on the available data can be found <a href="NeurIPS_2023___AudioWorkshop_DataBenchmark_3.pdf" target="_blank">here</a>. To request access to the datasets, please reach out to [competitions@hume.ai](mailto:competitions@hume.ai).
 
 
 ## Tentative Schedule
