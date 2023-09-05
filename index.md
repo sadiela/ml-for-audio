@@ -11,7 +11,7 @@ We plan to solicit original workshop papers in these areas, which will be review
 
 ## Call for Papers
 
-We are calling for extended abstracts up to 4 pages excluding references. Several submissions will be chosen for 15-minute contributed talks and the remaining selected submissions will participate in the poster & demo session. Please make sure submissions adhere to the NeurIPS format. Submit your work via **[CMT](https://cmt3.research.microsoft.com/MLforAudioWorkshop2023)**. The review process will be double-blind so please make sure not to put any author information in your submission.
+We are calling for extended abstracts up to 4 pages excluding references. Accepted submissions will be posted on the workshop website but not published/archived. Several submissions will be chosen for 15-minute contributed talks and the remaining selected submissions will participate in the poster & demo session. Please make sure submissions adhere to the NeurIPS format. Submit your work via **[CMT](https://cmt3.research.microsoft.com/MLforAudioWorkshop2023)**. The review process will be double-blind so please make sure not to put any author information in your submission.
 
 Authors may also submit supplementary materials along with their papers if they wish (e.g., a preview of a potential demo). Reviewers will not be required to read/view/listen to said supplementary material. 
 
