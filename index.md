@@ -19,7 +19,7 @@ Authors may also submit supplementary materials along with their papers if they 
 
 * **Submission deadline (main paper & all supplementary material)**: September 29, 2023 AOE
 
-* **Accept/Reject notification date**: October 20, 2023 AOE
+* **Accept/Reject notification date**: **UPDATED** October 27, 2023 AOE
 
 ### Available Data for Workshop Submissions
 
