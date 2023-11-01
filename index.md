@@ -34,37 +34,37 @@ A white paper providing more comprehensive details on the available data can be 
 
 
 ## Tentative Schedule
-9:00   - **Invited Speaker Shoko Araki** 
+8:30 - **Invited Speaker: Bjorn Schuller**
 
-9:30   - **Invited Speaker Dimitra Emmanouilidou**
+9:00 - Contributed Talk: Explainable AI for Audio via Virtual Inspection Layers
 
-10:00 - **Contributed Talk**
+9:20 - Contributed Talk: Self-Supervised Speech Enhancement using Multi-Modal Data
 
-10:20 - **Contributed Talk**
+9:40 - **Invited Speaker: Dimitra Emmanouilidou**
 
-10:40 - **Contributed Talk**
+10:10 - Break
 
-11:00 - **Morning Break**
+10:40 - **Invited Speaker: Neil Zeghidour**
 
-11:30 - **Invited Speaker Ben Hayes**
+11:10 - Contributed Talk: Zero-shot audio captioning with audio-language model guidance and audio context keywords
 
-12:00 - **Lunch**
+11:30 - **Invited Speaker: Rachel Bittner**
 
-13:30 - **Poster & Demo Session**: Poster session alongside live demos from selected submissions.
+12:00 - Lunch
 
-15:00 - **Invited Speaker Neil Zeghidour**
+13:30 - **Poster & Demo Session**: Poster session alongside live demos from selected submissions.
 
-15:30 - **Invited Speaker Rachel Bittner**
+15:00 - Break
 
-16:00 - **Afternoon Break**
+15:30 - **Invited Speaker: Ben Hayes**
 
-16:30 - **Invited Speaker Bjorn Schuller**
+16:00 - Contributed Talk: EDMSound: Spectrogram Based Diffusion Models for Efficient and High-Quality Audio Synthesis
 
-17:00 - **Contributed Talk**
+16:20 - Contributed Talk: Towards Generalizable SER: Soft Labeling and Data Augmentation for Modeling Temporal Emotion Shifts in Large-Scale Multilingual Speech
 
-17:20 - **Contributed Talk**
+16:40 - Contributed Talk: Audio Personalization through Human-in-the-loop Optimization
 
-17:40 - **Contributed Talk**
+17:00 - **Invited Speaker: Shoko Araki**
 
 ## Invited Speakers
 * **[Shoko Araki](https://scholar.google.com/citations?user=bNo2kYsAAAAJ&hl=enJ)** received her B.E. and M.E. degrees in mathematical engineering and information physics from the University of Tokyo and her PhD in information science from Hokkaido University. In 2000, she joined NTT Communication Science Laboratories, Kyoto. She is a member of the IEEE, IEICE, and the ASJ. Her research interests include array signal processing, blind source separation applied to speech signals, speech diarization, and auditory scene analysis.
