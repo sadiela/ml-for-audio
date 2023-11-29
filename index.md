@@ -33,7 +33,7 @@ Two of the datasets can be benchmarked against previous competitions. For more d
 A white paper providing more comprehensive details on the available data can be found <a href="NeurIPS_2023___AudioWorkshop_DataBenchmark_3.pdf" target="_blank">here</a>. To request access to the datasets, please reach out to [competitions@hume.ai](mailto:competitions@hume.ai).
 
 
-## Tentative Schedule
+## Schedule
 8:30 - **Invited Speaker Bjorn Schuller:** Computer Audition Disrupted 2.0: The Foundation Models Era
 
 9:00 - Contributed Talk: Explainable AI for Audio via Virtual Inspection Layers
