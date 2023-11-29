@@ -34,7 +34,7 @@ A white paper providing more comprehensive details on the available data can be 
 
 
 ## Tentative Schedule
-8:30 - **Invited Speaker Bjorn Schuller**
+8:30 - **Invited Speaker Bjorn Schuller:** Computer Audition Disrupted 2.0: The Foundation Models Era
 
 9:00 - Contributed Talk: Explainable AI for Audio via Virtual Inspection Layers
 
@@ -44,9 +44,9 @@ A white paper providing more comprehensive details on the available data can be 
 
 10:10 - Break
 
-10:40 - **Invited Speaker Neil Zeghidour**
+10:40 - **Invited Speaker Neil Zeghidour:** Audio Language Models
 
-11:10 - Contributed Talk: Zero-shot audio captioning with audio-language model guidance and audio context keywords
+11:10 - Contributed Talk: Zero-shot Audio Captioning with Audio-Language Model Guidance and Audio Context Keywords
 
 11:30 - **Invited Speaker Rachel Bittner:** Lark: A Multimodal Foundation Model for Music
 
@@ -56,7 +56,7 @@ A white paper providing more comprehensive details on the available data can be 
 
 15:00 - Break
 
-15:30 - **Invited Speaker Ben Hayes**
+15:30 - **Invited Speaker Ben Hayes:** Uninformative Gradients: Optimisation Pathologies in Differentiable Digital Signal Processing
 
 16:00 - Contributed Talk: EDMSound: Spectrogram Based Diffusion Models for Efficient and High-Quality Audio Synthesis
 
@@ -64,13 +64,14 @@ A white paper providing more comprehensive details on the available data can be 
 
 16:40 - Contributed Talk: Audio Personalization through Human-in-the-loop Optimization
 
-17:00 - **Invited Speaker Shoko Araki**
+17:00 - **Invited Speaker Shoko Araki:** Multi-channel Speech Enhancement for Moving Sources
 
 ## Invited Speakers
 
-**[Shoko Araki](https://scholar.google.com/citations?user=bNo2kYsAAAAJ&hl=enJ)** received her B.E. and M.E. degrees in mathematical engineering and information physics from the University of Tokyo and her PhD in information science from Hokkaido University. In 2000, she joined NTT Communication Science Laboratories, Kyoto. She is a member of the IEEE, IEICE, and the ASJ. Her research interests include array signal processing, blind source separation applied to speech signals, speech diarization, and auditory scene analysis.
+**[Shoko Araki](https://scholar.google.com/citations?user=bNo2kYsAAAAJ&hl=enJ)** Shoko Araki is a Senior Research Scientist at NTT Communication Science Laboratories, NTT Corporation, Japan where she is currently leading the Signal Processing Research Group. Since joining NTT in 2000, she has been engaged in research on acoustic signal processing, microphone array signal processing, blind speech separation, meeting diarization, and auditory scene analysis. She was formerly a member of the IEEE SPS Audio and Acoustic Signal Processing Technical Committee (AASP-TC) (2014-2019) and currently serves as its Chair. She was a board member of the Acoustical Society of Japan (ASJ) (2017-2020), and she served as vice president of ASJ (2021-2022). She is an IEEE Fellow.
+* **Talk abstract**: Speech enhancement technology has made remarkable progress in recent years. While many single-channel methods have been proposed, and their performance has improved, multi-channel speech enhancement technology remains important due to its high performance in estimating and retaining sound source spatial information. Many multi-channel processing methods have been proposed so far for cases where the sound source and noise positions are fixed. However, for real-world applications, it is necessary to consider sound source movement and improve robustness to moving sources. In this presentation, I will introduce multi-channel audio enhancement technologies for moving sources. First, I will present an extension of mask-based neural beamforming, which is widely used as an ASR front-end, to moving sound sources. This extension is achieved by integrating model-based array signal processing and data-driven deep learning approaches. Then, I will discuss model-based, unsupervised multi-channel source separation and extraction approaches, e.g., independent component/vector analysis (ICA/IVA). For multi-channel processing, in addition to dealing with moving sources, it is also essential to devise techniques that limit the increase in computational complexity as the number of microphones increases. To address this issue, I will introduce a fast online IVA algorithm for tracking a single moving source that achieves optimal time complexity and operates significantly faster than conventional approaches.
 
-**[Rachel Bittner](https://scholar.google.com/citations?hl=en&user=pXn1kQEAAAAJ)** Rachel is a Research Manager at Spotify in Paris. Before Spotify, she worked at NASA Ames Research Center in the Human Factors division. She received her Ph.D. degree in music technology and digital signal processing from New York University.  Before that, she did a Master's degree in Mathematics at New York University, and a joint Bachelor's degree in Music Performance and Math at UC Irvine. Her research interests include automatic music transcription, musical source separation, metrics, and dataset creation.
+**[Rachel Bittner](https://scholar.google.com/citations?hl=en&user=pXn1kQEAAAAJ)** is a Research Manager at Spotify in Paris. Before Spotify, she worked at NASA Ames Research Center in the Human Factors division. She received her Ph.D. degree in music technology and digital signal processing from New York University.  Before that, she did a Master's degree in Mathematics at New York University, and a joint Bachelor's degree in Music Performance and Math at UC Irvine. Her research interests include automatic music transcription, musical source separation, metrics, and dataset creation.
 * **Talk abstract**: Music has a unique and complex structure which is challenging for both expert humans and existing AI systems to understand, and presents unique challenges relative to other forms of audio. We present LLARK, an instruction-tuned multimodal model for music understanding. We detail our process for dataset creation, which involves augmenting the annotations of diverse open-source music datasets and converting them to a unified instruction-tuning format. We propose a multimodal architecture for LLARK, integrating a pretrained generative model for music with a pretrained language model. In evaluations on three types of tasks (music understanding, captioning, and reasoning), we show that our model matches or outperforms existing baselines in zero-shot generalization for music understanding, and that humans show a high degree of agreement with the model’s responses in captioning and reasoning tasks.
 
 **[Dimitra Emmanouilidou](https://scholar.google.com/citations?hl=en&user=S1CeYaQAAAAJ)** is a member of the Audio and Acoustics Research group within Microsoft Research Lab at Redmond. The Audio and Acoustics group conducts research in audio processing and speech enhancement, 3D audio perception and technologies, devices for audio capture and rendering, array processing, and information extraction from audio signals. Her research areas of interest include signal processing, audio understanding and audio analytics.
