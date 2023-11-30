@@ -96,29 +96,29 @@ A white paper providing more comprehensive details on the available data can be 
 * **[Shrikanth Narayanan](https://scholar.google.com/citations?hl=en&user=8EDHmYkAAAAJ)** is a University Professor and holder of the Niki and Max Nikias Chair in Engineering at the University of Southern California (USC). Shri is a Fellow of the National Academy of Inventors (NAI), the Acoustical Society of America (ASA), the Institute of Electrical and Electronics Engineers (IEEE), the International Speech Communication Association (ISCA), the Association for Psychological Science (APS), the American Association for the Advancement of Science (AAAS), American Institute for Medical and Biological Engineering (AIMBE) and the Association for the Advancement of Affective Computing (AAAC). Shri Narayanan is a member of the European Academy of Sciences and Arts and a 2022 Guggenheim Fellow.
 
 ## Accepted Papers
-* [EDMSound: Spectrogram Based Diffusion Models for Efficient and High-Quality Audio Synthesis]() Ge Zhu, Marc-André Carbonneau, Zhiyao Duan (Oral)
+* [EDMSound: Spectrogram Based Diffusion Models for Efficient and High-Quality Audio Synthesis](EDMSound.pdf) Ge Zhu, Marc-André Carbonneau, Zhiyao Duan (Oral)
 * [Explainable AI for Audio via Virtual Inspection Layers]() Johanna Vielhaben, Sebastian Lapuschkin, Grégoire Montavon, Wojciech Samek (Oral)
-* [Self-Supervised Speech Enhancement using Multi-Modal Data]() Yu-Lin Wei, Rajalaxmi Rajagopalan, Bashima Islam, Romit Roy Choudhury (Oral)
-* [Audio Personalization through Human-in-the-loop Optimization]() Rajalaxmi Rajagopalan, Yu-Lin Wei, Romit Roy Choudhury (Oral)
-* [Zero-shot audio captioning with audio-language model guidance and audio context keyword]() Leonard Salewski, Stefan Fauth, A. Sophia Koepke, Zeynep Akata (Oral)
-* [Towards Generalizable SER: Soft Labeling and Data Augmentation for Modeling Temporal Emotion Shifts in Large-Scale Multilingual Speech]() Mohamed Osman, Tamer Nadeem, Ghada Khoriba (Oral)
-* [Audio classification with Dilated Convolution with Learnable Spacings]() Ismail Khalfaoui Hassani, Timothée Masquelier, Thomas Pellegrini
-* [Creative Text-to-Audio Generation via Synthesizer Programming]() Nikhil Singh, Manuel Cherep, Jessica Shand
-* [Jointly Recognizing Speech and Singing Voices Based on Multi-Task Audio Source Separation]() Ye Bai, Chenxing Li, Xiaorui Wang, Yuanyuan Zhao, Hao Li
-* [Leveraging Content-based Features from Multiple Acoustic Models for Singing Voice Conversion]() 	Xueyao Zhang, Yicheng Gu, Haopeng Chen, Zihao Fang, Lexiao Zou, Liumeng Xue, Zhizheng Wu
+* [Self-Supervised Speech Enhancement using Multi-Modal Data](SelfSupervisedSpeechEnhancement.pdf) Yu-Lin Wei, Rajalaxmi Rajagopalan, Bashima Islam, Romit Roy Choudhury (Oral)
+* [Audio Personalization through Human-in-the-loop Optimization](AudioPersonalization.pdf) Rajalaxmi Rajagopalan, Yu-Lin Wei, Romit Roy Choudhury (Oral)
+* [Zero-shot audio captioning with audio-language model guidance and audio context keyword](ZeroShotCaptioning.pdf) Leonard Salewski, Stefan Fauth, A. Sophia Koepke, Zeynep Akata (Oral)
+* [Towards Generalizable SER: Soft Labeling and Data Augmentation for Modeling Temporal Emotion Shifts in Large-Scale Multilingual Speech](GeneralizableSER.pdf) Mohamed Osman, Tamer Nadeem, Ghada Khoriba (Oral)
+* [Audio classification with Dilated Convolution with Learnable Spacings](AudioClassDilatedConv.pdf) Ismail Khalfaoui Hassani, Timothée Masquelier, Thomas Pellegrini
+* [Creative Text-to-Audio Generation via Synthesizer Programming](CreativeTextToAudio.pdf) Nikhil Singh, Manuel Cherep, Jessica Shand
+* [Jointly Recognizing Speech and Singing Voices Based on Multi-Task Audio Source Separation](JointRecSpeechSinging.pdf) Ye Bai, Chenxing Li, Xiaorui Wang, Yuanyuan Zhao, Hao Li
+* [Leveraging Content-based Features from Multiple Acoustic Models for Singing Voice Conversion](SingingVoiceConversion.pdf) 	Xueyao Zhang, Yicheng Gu, Haopeng Chen, Zihao Fang, Lexiao Zou, Liumeng Xue, Zhizheng Wu
 * [Diffusion Models as Masked Audio-Video Learners]() Elvis Nunez, Yanzi Jin, Mohammad Rastegari, Sachin Mehta, Maxwell C Horton
-* [InstrumentGen: Generating Sample-Based Musical Instruments From Text]() Shahan Nercessian, Johannes Imort
-* [Multi-Resolution Audio-Visual Feature Fusion for Temporal Action Localization]() Edward Fish, Jon Weinbren, Andrew Gilbert
-* [Composing and Validating Large-Scale Datasets for Training Open Foundation Models for Audio]() Marianna Nezhurina, Ke Chen, Yusong Wu, Tianyu Zhang, Haohe Liu, Yuchen Hui, Taylor Berg-Kirkpatrick, Shlomo Dubnov, Jenia Jitsev
-* [Unsupervised Musical Object Discovery from Audio]() Joonsu Gha, Vincent Herrmann, Benjamin F. Grewe, Jürgen Schmidhuber, Anand Gopalakrishnan
-* [Data is Overrated: Perceptual Metrics Can Lead Learning in the Absence of Training Data]() Tashi Namgyal, Alexander Hepburn, Raul Santos Rodriguez, Valero Laparra, Jesus Malo
-* [Improved sound quality human-inspired DNN-based audio applications]() Chuan Wen, Sarah Verhulst, Guy Torfs 
+* [InstrumentGen: Generating Sample-Based Musical Instruments From Text](InstrumentGen.pdf) Shahan Nercessian, Johannes Imort
+* [Multi-Resolution Audio-Visual Feature Fusion for Temporal Action Localization](MultiResFeatureFusion.pdf) Edward Fish, Jon Weinbren, Andrew Gilbert
+* [Composing and Validating Large-Scale Datasets for Training Open Foundation Models for Audio](CompValDataFoundationModels.pdf) Marianna Nezhurina, Ke Chen, Yusong Wu, Tianyu Zhang, Haohe Liu, Yuchen Hui, Taylor Berg-Kirkpatrick, Shlomo Dubnov, Jenia Jitsev
+* [Unsupervised Musical Object Discovery from Audio](UnsupervisedMusicalObjDisc.pdf) Joonsu Gha, Vincent Herrmann, Benjamin F. Grewe, Jürgen Schmidhuber, Anand Gopalakrishnan
+* [Data is Overrated: Perceptual Metrics Can Lead Learning in the Absence of Training Data](DataIsOverrated.pdf) Tashi Namgyal, Alexander Hepburn, Raul Santos Rodriguez, Valero Laparra, Jesus Malo
+* [Improved sound quality human-inspired DNN-based audio applications](ImprovedDNN.pdf) Chuan Wen, Sarah Verhulst, Guy Torfs 
 * [Synthia's Melody: A Benchmark Framework for Unsupervised Domain Adaptation in Audio]() Harry Coppock, Chia-Hsin Lin
 * [AttentionStitch: How Attention Solves the Speech Editing Problem]() Antonios Alexos, Pierre Baldi
-* [MusT3: Unified Multi-Task Model for Fine-Grained Music Understanding]() Martin Kukla, Minz Won, Yun-Ning Hung, Duc Le
-* [Benchmarks and deep learning models for localizing rodent vocalizations in social interactions]() Ralph E Peterson, Aramis Tanelus, Aman Choudhri, Violet Ivan, Aaditya Prasad, David Schneider, Dan Sanes, Alex Williams
-* [The Song Describer Dataset: a Corpus of Audio Captions for Music-and-Language Evaluation]() Ilaria Manco, Benno Weck, Seungheon Doh, Minz Won, Yixiao Zhang, Dmitry Bogdanov, Yusong Wu, Ke Chen, Philip Tovstogan, Emmanouil Benetos, Elio Quinton, George Fazekas, Juhan Nam
-* [ScripTONES: Sentiment-Conditioned Music Generation for Movie Scripts]() Vishruth Veerendranath, Vibha Masti, Utkarsh Gupta, Hrishit Chaudhuri, Gowri Srinivasa 
-* [Self-Supervised Music Source Separation Using Vector-Quantized Source Category Estimates]() Marco Pasini, Stefan Lattner, George Fazekas
-* [Deep Generative Models of Music Expectation]() Ninon Lizé Masclef, Thomas A Keller
-* [mir_ref: A Representation Evaluation Framework for Music Information Retrieval Tasks]() Christos Plachouras, Dmitry Bogdanov, Pablo Alonso-Jiménez
+* [MusT3: Unified Multi-Task Model for Fine-Grained Music Understanding](MusT3.pdf) Martin Kukla, Minz Won, Yun-Ning Hung, Duc Le
+* [Benchmarks and deep learning models for localizing rodent vocalizations in social interactions](RodentVocalizationLocalization.pdf) Ralph E Peterson, Aramis Tanelus, Aman Choudhri, Violet Ivan, Aaditya Prasad, David Schneider, Dan Sanes, Alex Williams
+* [The Song Describer Dataset: a Corpus of Audio Captions for Music-and-Language Evaluation](SongDescriber.pdf) Ilaria Manco, Benno Weck, Seungheon Doh, Minz Won, Yixiao Zhang, Dmitry Bogdanov, Yusong Wu, Ke Chen, Philip Tovstogan, Emmanouil Benetos, Elio Quinton, George Fazekas, Juhan Nam
+* [ScripTONES: Sentiment-Conditioned Music Generation for Movie Scripts](ScripTONES.pdf) Vishruth Veerendranath, Vibha Masti, Utkarsh Gupta, Hrishit Chaudhuri, Gowri Srinivasa 
+* [Self-Supervised Music Source Separation Using Vector-Quantized Source Category Estimates](SelfsupervisedSourceSep.pdf) Marco Pasini, Stefan Lattner, George Fazekas
+* [Deep Generative Models of Music Expectation](DeepGenMusicExpectation.pdf) Ninon Lizé Masclef, Thomas A Keller
+* [mir_ref: A Representation Evaluation Framework for Music Information Retrieval Tasks](mir_ref.pdf) Christos Plachouras, Dmitry Bogdanov, Pablo Alonso-Jiménez
