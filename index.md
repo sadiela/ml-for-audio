@@ -34,6 +34,8 @@ A white paper providing more comprehensive details on the available data can be 
 
 
 ## Schedule
+The workshop will take place on December 16th, 2023. 
+
 8:30 - **Invited Speaker Bjorn Schuller:** Computer Audition Disrupted 2.0: The Foundation Models Era
 
 9:00 - Contributed Talk: Explainable AI for Audio via Virtual Inspection Layers
