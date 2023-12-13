@@ -116,7 +116,7 @@ The workshop will take place on December 16th, 2023.
 * [Data is Overrated: Perceptual Metrics Can Lead Learning in the Absence of Training Data](DataIsOverrated.pdf) Tashi Namgyal, Alexander Hepburn, Raul Santos Rodriguez, Valero Laparra, Jesus Malo
 * [Improved sound quality human-inspired DNN-based audio applications](ImprovedDNN.pdf) Chuan Wen, Sarah Verhulst, Guy Torfs 
 * [Synthia's Melody: A Benchmark Framework for Unsupervised Domain Adaptation in Audio](synthia_melody.pdf) Harry Coppock, Chia-Hsin Lin
-* [AttentionStitch: How Attention Solves the Speech Editing Problem](AttentionStich.pdf) Antonios Alexos, Pierre Baldi
+* [AttentionStitch: How Attention Solves the Speech Editing Problem](AttentionStitch.pdf) Antonios Alexos, Pierre Baldi
 * [MusT3: Unified Multi-Task Model for Fine-Grained Music Understanding](MusT3.pdf) Martin Kukla, Minz Won, Yun-Ning Hung, Duc Le
 * [Benchmarks and deep learning models for localizing rodent vocalizations in social interactions](RodentVocalizationLocalization.pdf) Ralph E Peterson, Aramis Tanelus, Aman Choudhri, Violet Ivan, Aaditya Prasad, David Schneider, Dan Sanes, Alex Williams
 * [The Song Describer Dataset: a Corpus of Audio Captions for Music-and-Language Evaluation](SongDescriber.pdf) Ilaria Manco, Benno Weck, Seungheon Doh, Minz Won, Yixiao Zhang, Dmitry Bogdanov, Yusong Wu, Ke Chen, Philip Tovstogan, Emmanouil Benetos, Elio Quinton, George Fazekas, Juhan Nam
