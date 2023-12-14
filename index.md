@@ -36,7 +36,7 @@ A white paper providing more comprehensive details on the available data can be 
 ## Schedule
 The workshop will take place on December 16th, 2023. 
 
-8:30 - **Invited Speaker Bjorn Schuller:** Computer Audition Disrupted 2.0: The Foundation Models Era
+8:40 - **Invited Speaker Bjorn Schuller:** Computer Audition Disrupted 2.0: The Foundation Models Era
 
 9:00 - Contributed Talk: Explainable AI for Audio via Virtual Inspection Layers
 
@@ -46,7 +46,7 @@ The workshop will take place on December 16th, 2023.
 
 10:10 - Break
 
-10:40 - **Invited Speaker Neil Zeghidour:** Audio Language Models
+10:50 - **Invited Speaker Neil Zeghidour:** Audio Language Models
 
 11:10 - Contributed Talk: Zero-shot Audio Captioning with Audio-Language Model Guidance and Audio Context Keywords
 
